@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Hasan Ali"
-  avatar           : /assets/images/site/av.jfif # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/site/ed.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis"
   location         : "Egypt"
   email            :
