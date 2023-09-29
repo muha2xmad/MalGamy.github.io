@@ -4,8 +4,6 @@
 main:
   - title: "Malware analysis"
     url: /categories/#Malware-analysis
-  - title: "Unpacking"
-    url: /categories/#Unpacking
   - title: "Mal Documents"
     url: /categories/#Mal-Document
   # url: https://google.com
